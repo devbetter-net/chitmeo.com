@@ -9,6 +9,12 @@
 # production
 /dist
 
+#firebase
+.firebase
+
+#angular cache
+.angular
+
 # misc
 .DS_Store
 .env
